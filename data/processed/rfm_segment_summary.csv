@@ -1,0 +1,5 @@
+customer_segment,customers,avg_recency,avg_frequency,avg_monetary,total_revenue,customer_percentage
+Occasional High-Spend Customers,32189,272.46,1.0,295.71,9518486.78,34.48
+Low-Value Inactive Customers,42285,287.36,1.0,68.19,2883293.33,45.29
+Recent Customers,16083,42.01,1.0,133.92,2153806.18,17.23
+Loyal High-Value Customers,2801,220.29,2.11,308.53,864187.46,3.0

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+venv/
+env/
+.venv/
+*.egg-info/
+
+# Jupyter
+.jupyter/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI temp / lock files
+~$*.pbix
+*.pbix.bak
+
+# Environment / secrets
+.env
+*.env
+
+# Logs
+*.log
