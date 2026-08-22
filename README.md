@@ -9,8 +9,7 @@ The project combines **MySQL, Python, RFM Analysis, and Power BI** to transform 
 ![Power BI](https://img.shields.io/badge/BI-Power%20BI-F2C811)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
-**🔗 [Live Interactive Dashboard →](https://your-app-name.streamlit.app)** *(replace with your deployed Streamlit Cloud link — see `streamlit_app/README.md`)*
-
+**🔗 [Live Interactive Dashboard →](https://ecommerce-customer-intelligence-analytics-fogcddeafsfbsqlmxpxj.streamlit.app/)
 ---
 
 ## Table of Contents
